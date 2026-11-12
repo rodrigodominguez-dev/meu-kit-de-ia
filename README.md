@@ -210,3 +210,11 @@ O processo transformou um pedido amplo de ajuda com os estudos em dois atalhos r
 ### Evidências visuais
 
 As imagens abaixo são capturas de tela do registro produzido no repositório. Os testes usam exemplos didáticos; nenhuma vaga fictícia é apresentada como oportunidade aberta.
+
+#### Captura do plano e da revisão
+
+![Plano e revisão registrados](https://github.com/user-attachments/assets/65cd9a0d-40ae-4f0b-830a-da0fc66edb95)
+
+#### Captura do resultado produzido
+
+![Planejamento produzido pela IA](https://github.com/user-attachments/assets/1b8becd1-1d08-4a25-8af5-9cfeede952ea)
