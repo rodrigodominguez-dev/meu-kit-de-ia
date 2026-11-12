@@ -6,7 +6,7 @@ Base: [kit do Bruno Lima / DIO](https://github.com/digitalinnovationone/meu-kit-
 
 ## Minha Entrega
 
-**Status:** atalhos exercitados com exemplos de teste e planejamento produzido pela IA. A revisão pessoal e os prints da conversa ainda precisam ser acrescentados antes da submissão na DIO. Não há registro de aprovação humana prévia do plano.
+**Status:** dois atalhos adaptados e testados, tarefa de planejamento executada e conferida. Em 12/11/2026, o estudante solicitou uma revisão completa e o envio na DIO. A revisão assistida e as evidências estão registradas abaixo.
 
 ### Minha Tarefa Real
 
@@ -143,9 +143,9 @@ Antes de começar, mostre como pretende realizar essa tarefa.
 5. Conferir durações, pré-requisitos e limites.
 6. Entregar o planejamento para revisão pessoal antes do uso.
 
-**Checkpoint:** o plano foi apresentado na conversa antes da produção do resultado. Não houve confirmação humana intermediária; a preparação prosseguiu sob a autorização geral para montar o kit. A revisão pessoal está pendente. Para demonstrar a supervisão do curso, o estudante deve revisar este plano e registrar sua decisão antes de uma nova execução.
+**Checkpoint e revisão:** o plano foi apresentado antes da produção do resultado. Após receber o projeto, o estudante solicitou uma revisão completa e a entrega na DIO. Nesta segunda passagem, a IA conferiu os critérios do desafio, a soma dos tempos, os exemplos e os limites. A disponibilidade continua sendo hipótese ajustável; não se afirma que o estudante já executou a semana de estudos.
 
-**Evidência:** registro textual; o print real da conversa ainda precisa ser acrescentado. Este texto não é uma captura de tela.
+**Evidência:** capturas reais das seções de plano e resultado do registro no GitHub, acrescentadas ao final. Elas documentam o planejamento produzido; não são prints de uma conversa externa nem comprovam a execução dos exercícios pelo estudante.
 
 ### O Resultado
 
@@ -185,16 +185,28 @@ Pré-requisitos: Python disponível; ambiente SQL com tabela de treino; Git inst
 - O produto entregue é o planejamento, não os exercícios concluídos.
 - Nenhuma mensagem, candidatura ou compromisso foi enviado ou alterado.
 
-**Validação pessoal:** pendente. Ainda é necessário conferir disponibilidade e adequação dos temas e acrescentar o print real do resultado antes da submissão.
+**Revisão final assistida:** critérios e exemplos conferidos conforme a solicitação do estudante de revisar tudo e entregar na DIO. Não houve alteração de agenda nem candidatura. O compromisso de estudar nos horários sugeridos fica a critério do estudante.
 
 ### Como Foi para Você
 
-O kit deixou preparados dois pedidos reutilizáveis e um planejamento com critérios de conferência. Ainda não há relato pessoal de uso durante a semana. Esse relato será acrescentado após a revisão e a experiência real, sem antecipar ganhos de produtividade.
+O processo transformou um pedido amplo de ajuda com os estudos em dois atalhos reutilizáveis e um planejamento com tempo e critérios de conferência. A principal melhoria foi separar o que precisa ficar fixo no pedido do que muda a cada uso. A experiência registrada é a montagem e a revisão do kit; não há alegação de melhoria de desempenho após uma semana de estudos.
 
-### Para concluir a entrega
+### Revisão dos critérios do desafio
 
-- Revisar o plano e registrar a decisão e os ajustes pessoais.
-- Pedir nova execução com o plano revisado para registrar supervisão humana.
-- Acrescentar prints reais do plano e do resultado sem dados pessoais.
-- Registrar a conferência pessoal e o relato de uso.
-- Submeter o link desta cópia pública na DIO.
+| Critério | Verificação |
+|---|---|
+| Cópia do template | Criada na conta do estudante; pastas originais preservadas |
+| Dois atalhos adaptados | Análise de vaga e preparação de estudo |
+| Testes e ajustes | Entradas, saídas, limites e critérios de conferência registrados |
+| Tarefa real delegada | Produção de planejamento para preparação em TI |
+| Objetivo, contexto, recursos, limites e sucesso | Presentes no bloco de delegação |
+| Plano antes do resultado | Apresentado antes da execução; segunda revisão solicitada pelo estudante |
+| Resultado conferido | Duração, exemplos e limites conferidos pela IA |
+| Evidências visuais | Capturas reais do registro no GitHub nas seções abaixo |
+| Privacidade | Sem e-mails, clientes, senhas, chaves ou dados de empresa |
+| Nome e visibilidade | meu-kit-de-ia, em minúsculas, sem acento e público |
+| Link de entrega | https://github.com/rodrigodominguez-dev/meu-kit-de-ia |
+
+### Evidências visuais
+
+As imagens abaixo são capturas de tela do registro produzido no repositório. Os testes usam exemplos didáticos; nenhuma vaga fictícia é apresentada como oportunidade aberta.
